@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5613","test_login_data_driven[Valid login-testplaywright@abc.com-Test@123-success]","tests","2026-07-11","passed","2026-07-11","","test_login_data_driven","",""
+"
+Automated Test Case: Verify user can search and add a product to the cart.
+","1888","test_add_product_to_cart","tests","2026-07-11","passed","2026-07-11","","test_add_product_to_cart","",""
+"","4694","test_login_data_driven[Invalid login-testplaywright@xyz.com-abcxyx-failure]","tests","2026-07-11","passed","2026-07-11","","test_login_data_driven","",""
